@@ -12,3 +12,7 @@ add_executable(iterator "iterator/iterator.cpp")
 add_executable(string "string/string.cpp")
 
 add_executable(vector "vector/vector.cpp")
+
+add_executable(deque "deque/deque.cpp")
+
+add_executable(stack "stack/stack.cpp")
